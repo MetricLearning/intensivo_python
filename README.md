@@ -16,15 +16,16 @@ Entre los contenidos del curso se encuentran los siguientes:
 
 ## Acerca del profesor
 
+<div style="float:left;">
 <img style="float: left; overflow: auto; margin:0 20px 10px 0" src="figures/perfil Roberto Munoz.jpg" width="200">
 
-[Roberto Muñoz](https://cl.linkedin.com/in/robertopmunoz) es Licenciado en Astronomía y Doctor en Astrofísica de la Pontificia Universidad Católica de Chile.
+<p><a href="https://cl.linkedin.com/in/robertopmunoz">Roberto Muñoz</a> es Licenciado en Astronomía y Doctor en Astrofísica de la Pontificia Universidad Católica de Chile.</p>
 
-Actualmente trabaja como Consultor y Data Scientist en la empresa [Metric Arts](http://www.metricarts.com/).
+<p>Actualmente trabaja como Consultor y Data Scientist en la empresa <a href="http://www.metricarts.com">Metric Arts</a>.</p>
 
-Cuenta con más de 5 años de experiencia en desarrollo de software y análisis de datos basado en SQL, Python y C ++. Se especializa en las áreas de Data Analytics, Astronfirmática y Visión computacional.
+<p>Cuenta con más de 5 años de experiencia en desarrollo de software y análisis de datos basado en SQL, Python y C ++. Se especializa en las áreas de Data Analytics, Astronfirmática y Visión computacional.</p>
+</div>
 
-<br>
 ## License
 
 Copyright &copy; 2017, [Roberto Muñoz](https://github.com/rpmunoz). Released under the [GPLv3](https://github.com/MetricLearning/intensivo_python/blob/master/LICENSE) license.
