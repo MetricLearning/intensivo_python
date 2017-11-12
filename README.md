@@ -17,8 +17,7 @@ Entre los contenidos del curso se encuentran los siguientes:
 ## Acerca del profesor
 
 <div style="float:left;">
-<img style="float: left; overflow: auto; margin:0 20px 10px 0" src="figures/perfil Roberto Munoz.jpg" width="200">
-
+<img style="float: left; margin:0 20px 10px 0" src="figures/perfil Roberto Munoz.jpg" width="200"/>
 <p><a href="https://cl.linkedin.com/in/robertopmunoz">Roberto Muñoz</a> es Licenciado en Astronomía y Doctor en Astrofísica de la Pontificia Universidad Católica de Chile.</p>
 
 <p>Actualmente trabaja como Consultor y Data Scientist en la empresa <a href="http://www.metricarts.com">Metric Arts</a>.</p>
